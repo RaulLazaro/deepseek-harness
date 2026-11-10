@@ -1,3 +1,10 @@
+> [!WARNING]
+> **DEPRECATED FORK — no longer maintained.** This fork is archived and kept only as a historical reference. It is not updated, not supported, and does not track upstream. Please use [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) instead.
+>
+> **FORK OBSOLETO — sin mantenimiento.** Este fork está archivado y se conserva solo como referencia histórica. No se actualiza ni se sincroniza con el original. Usa el repositorio oficial en su lugar.
+
+---
+
 # DeepSeek Harness
 
 English | [中文](README.zh.md)
